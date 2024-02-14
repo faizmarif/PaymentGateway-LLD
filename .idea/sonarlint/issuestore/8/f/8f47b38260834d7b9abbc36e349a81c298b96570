@@ -1,0 +1,13 @@
+
+I
+java:S1172!".Remove this unused method parameter "paymode".(ç¤ä¨ıÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(“²üÙ
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(àÃŒÇÿÿÿÿÿ8à›²È†1
+I
+java:S1172*".Remove this unused method parameter "paymode".(ú–ğøÿÿÿÿ
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¦õş8áê²È†1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ü¦¥Èùÿÿÿÿ8áê²È†1
+I
+java:S11723".Remove this unused method parameter "paymode".(´ñëıÿÿÿÿ
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(°à…Äúÿÿÿÿ8âê²È†1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(™†ĞÕ8âê²È†1
